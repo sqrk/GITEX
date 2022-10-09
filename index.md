@@ -6,7 +6,8 @@
 
 <input placeholder = "Type your guess"  id = "advice" />
 
-<button onclick="onButtonClick('advice')">Check</button>
+alert
+<button onclick="alert('hi')">Check</button>
 
 <audio controls>
   <source src="https://github.com/sqrk/GITEX/blob/main/adapt.wav?raw=true">
