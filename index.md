@@ -1,13 +1,7 @@
 ## Try guessing the following utterances:
 
-
-https://media1.vocaroo.com/mp3/1lbL300jWcZb
-https://sndup.net/h8pz/d
-
-https://github.com/sqrk/Content-Accent-Disentanglement/blob/gh-pages/AccentDB/306k_steps_3_target.mp3
-
 <audio controls>
-  <source src="https://github.com/sqrk/Content-Accent-Disentanglement/blob/gh-pages/AccentDB/306k_steps_3_target.mp3?raw=true">
+  <source src="https://github.com/sqrk/GITEX/blob/main/advice.wav?raw=true">
 </audio>
 
 You can use the [editor on GitHub](https://github.com/sqrk/Content-Accent-Disentanglement/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
