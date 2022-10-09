@@ -78,12 +78,15 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <script>
   function onButtonClick(word) {
-    var input=document.getElementById(word).value; 
+    alert(word)
+    
+  }
+</script>
+
+
+<!-- var input=document.getElementById(word).value; 
     if input.equals(word) {
       alert('true', word);
     } else {
       alert(word)
-    }
-  }
-  return pass.equals(password);
-</script>
+    } -->
