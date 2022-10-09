@@ -81,6 +81,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     var input=document.getElementById(word).value; 
     if input.equals(word) {
       alert('true', word);
+    } else {
+      alert(word)
     }
   }
   return pass.equals(password);
