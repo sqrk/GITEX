@@ -1,4 +1,7 @@
+---
 layout: page
-title: "MAIN"
+title: main
 permalink: /main
+---
 
+# Hello
