@@ -6,8 +6,8 @@
 
 <input placeholder = "Type your guess"  id = "advice" />
 
-alert
-<button onclick="alert('hi')">Check</button>
+khkhkh
+<button onclick="document.getElementById(word).value == "advice" ? alert(yay) : alert(nay)>Check</button>
 
 <audio controls>
   <source src="https://github.com/sqrk/GITEX/blob/main/adapt.wav?raw=true">
