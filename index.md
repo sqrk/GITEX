@@ -3,8 +3,9 @@
 Try to guess what the following speech sequences are saying!
 
 Note: Only use lowercase characters.
+akjsdbkaj
 
-<row>
+<row style="display: flex; align-items: center; justify-content: center;">
   <audio controls>
     <source src="https://github.com/sqrk/GITEX/blob/main/advice.wav?raw=true">
   </audio>
