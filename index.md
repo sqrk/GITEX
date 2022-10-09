@@ -1,13 +1,17 @@
 ## How hard is it to understand impaired speech?
 
 Try to guess what the following speech sequences are saying!
+
 Note: Only use lowercase characters.
 
-<audio controls>
-  <source src="https://github.com/sqrk/GITEX/blob/main/advice.wav?raw=true">
-</audio>
-<input placeholder = "Type your guess"  id = "advice" />
-<button onclick="document.getElementById('advice').value == 'advice' ? alert('You guessed correctly!') : alert('The correct word is: advice')">Check</button>
+<row>
+  <audio controls>
+    <source src="https://github.com/sqrk/GITEX/blob/main/advice.wav?raw=true">
+  </audio>
+  <input placeholder = "Type your guess"  id = "advice" />
+  <button onclick="document.getElementById('advice').value == 'advice' ? alert('You guessed correctly!') : alert('The correct word is: advice')">Check</button>
+</row>
+
 
 <audio controls>
   <source src="https://github.com/sqrk/GITEX/blob/main/adapt.wav?raw=true">
