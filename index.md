@@ -35,7 +35,7 @@ Note: Only use lowercase characters.
 </audio>
 
 <input placeholder = "Type your guess"  id = "multiflora" />
-<button onclick="document.getElementById('advice').value == 'multiflora' ? alert('You guessed correctly!') : alert('The correct word is: multiflora')">Check</button>
+<button onclick="document.getElementById('multiflora').value == 'multiflora' ? alert('You guessed correctly!') : alert('The correct word is: multiflora')">Check</button>
 
 <audio controls>
   <source src="https://github.com/sqrk/GITEX/blob/main/other.wav?raw=true">
