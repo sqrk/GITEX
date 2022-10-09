@@ -4,6 +4,40 @@
   <source src="https://github.com/sqrk/GITEX/blob/main/advice.wav?raw=true">
 </audio>
 
+<input placeholder = "Type your guess"  id = "advice" />
+
+<audio controls>
+  <source src="https://github.com/sqrk/GITEX/blob/main/adapt.wav?raw=true">
+</audio>
+
+<audio controls>
+  <source src="https://github.com/sqrk/GITEX/blob/main/control.wav?raw=true">
+</audio>
+
+<audio controls>
+  <source src="https://github.com/sqrk/GITEX/blob/main/legislature.wav?raw=true">
+</audio>
+
+<audio controls>
+  <source src="https://github.com/sqrk/GITEX/blob/main/multiflora.wav?raw=true">
+</audio>
+
+<audio controls>
+  <source src="https://github.com/sqrk/GITEX/blob/main/other.wav?raw=true">
+</audio>
+
+<audio controls>
+  <source src="https://github.com/sqrk/GITEX/blob/main/psychological.wav?raw=true">
+</audio>
+
+<audio controls>
+  <source src="https://github.com/sqrk/GITEX/blob/main/six.wav?raw=true">
+</audio>
+
+<audio controls>
+  <source src="https://github.com/sqrk/GITEX/blob/main/tango.wav?raw=true">
+</audio>
+
 You can use the [editor on GitHub](https://github.com/sqrk/Content-Accent-Disentanglement/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -40,4 +74,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-{% include open-embed.html %}
