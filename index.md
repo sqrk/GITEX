@@ -2,8 +2,6 @@
 
 Try to guess what the following speech sequences are saying!
 
-Note: Only use lowercase characters.
-
 <row style="display: flex; align-items: center; justify-content: center; margin-bottom:25px">
   <audio controls  style="margin-right:50px;">
     <source src="https://github.com/sqrk/GITEX/blob/main/advice.wav?raw=true">
