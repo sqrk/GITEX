@@ -73,6 +73,6 @@ Note: Only use lowercase characters.
   <source src="https://github.com/sqrk/GITEX/blob/main/tango.wav?raw=true">
 </audio>
 <input placeholder = "Type your guess"  id = "tango" />
-<button onclick="document.getElementById('tango').value == 'tango' ? alert('You guessed correctly!') : alert('The correct word is: tango')">Check</button>
+<button onclick="document.getElementById('tango').value.toLowerCase() == 'tango' ? alert('You guessed correctly!') : alert('The correct word is: tango')">Check</button>
 </row>
   
